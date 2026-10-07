@@ -18,7 +18,11 @@ The goal is not maximum reasoning.
 The goal is **minimum sufficient effort**.
 
 ---
-
+python nythosplus.py install --dry-run
+python nythosplus.py install
+python nythosplus.py status
+python nythosplus.py doctor
+python nythosplus.py self-test
 ## Why Nythos Plus exists
 
 Most AI runtimes treat computation as a fixed setting:
